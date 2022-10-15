@@ -7,3 +7,4 @@ Lūdzu pildiet uzdevumus!
  - [] aplūkot rezultātu GitHub
  - [] pievienot html un JS failus, veikt kommit un aizsūtīt uz GitHub
  - [] aizvērt visu
+ - [] nemeklē vairs
